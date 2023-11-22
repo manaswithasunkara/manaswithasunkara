@@ -1,6 +1,6 @@
 # ✌️Hello I am Manaswitha Sunkara!
 
-# ![image](https://github.com/manaswithasunkara/manaswithasunkara/assets/105747595/84ef0cb2-9630-4502-a8ae-f9586f551b7d| width=100)
+# ![image](https://github.com/manaswithasunkara/manaswithasunkara/assets/105747595/84ef0cb2-9630-4502-a8ae-f9586f551b7d)
 
 
 
