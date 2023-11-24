@@ -4,6 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+✌️;+I'm+Manaswitha+Sunkara!;" />
 </h1>
 <img alt="gif" align="right" width="300" src="https://i.pinimg.com/originals/2e/ae/a0/2eaea0dac28011222ea9ab70d7fb163a.gif">
+<br/>
 
 <h3 align="center">A passionate software developer </h3>
 
