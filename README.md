@@ -3,7 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+✌️;+I'm+Manaswitha+Sunkara!;" />
 </h1>
-< img alt="gif" align="right" src="https://i.pinimg.com/originals/2e/ae/a0/2eaea0dac28011222ea9ab70d7fb163a.gif">
+< img alt="gif" align="right" src="https://i.pinimg.com/originals/2e/ae/a0/2eaea0dac28011222ea9ab70d7fb163a.gif"/ >
 
 <h3 align="center">A passionate software developer </h3>
 
