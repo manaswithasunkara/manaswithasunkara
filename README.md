@@ -10,7 +10,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
  
  🔭 I’m currently working on **Slot Booking App**
  
@@ -20,7 +20,7 @@
 
  </div>
  
-<div align="center"> 
+<div align="left"> 
   <a href="mailto:manaswitha.sunkara@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -48,15 +48,20 @@
 
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<div align="center">
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=manaswithasunkara&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=manaswithasunkara&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manaswithasunkara&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+</div>
+
 
 
 <br/>
+<div align="center">
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=manaswithasunkara&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -70,6 +75,8 @@
 
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+</div>
 
 
 
