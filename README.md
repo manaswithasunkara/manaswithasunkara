@@ -12,7 +12,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Booking App**
+ 🔭 I’m currently working on **Slot Booking App**
  
  🌱 I’m currently learning **Flutter, Firebase, Web Development**
 
