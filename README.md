@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/venkata-manaswitha-sunkara" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://drive.google.com/file/d/1pi8Po75-fMZQrKD4YMHnG5yoPX6fyFNz/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1Nl5veuYc3ckSD_HuDXgfc5EwuGLNky6D/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Resume-e40078?style=for-the-badge" target="_blank" />
   </a>
 
